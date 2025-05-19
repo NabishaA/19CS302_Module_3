@@ -5,9 +5,13 @@ To write a C program to check whether the given number is prime or not using fun
 
 ## Algorithm
 1.Start the program.
+
 2.Take input of an integer number n from the user.
+
 3.Create a function that takes n as an argument and checks whether it is prime.
+
 4.Inside the function, use a loop to check if n is divisible by any number from 2 to √n.
+
 5.Print whether the number is prime or not and end the program. 
 
 ## Program:
