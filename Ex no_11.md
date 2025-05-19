@@ -5,9 +5,13 @@ To write a C Program to convert a given decimal value to binary using function w
 
 ## Algorithm
 1.Start the program.
+
 2.Create a function with no arguments that reads a decimal number from the user.
+
 3.Inside the function, convert the number to binary using a loop and store the binary digits.
+
 4.Return 0 from the function after displaying the binary equivalent.
+
 5.Call the function from main() and end the program. 
 
 ## Program:
